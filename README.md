@@ -1,6 +1,2 @@
 # androidTest
 First GitHub project
-
-
-
-
